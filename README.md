@@ -5,4 +5,6 @@ Database:                SQLite3, PostgreSQL
 Data Science:            matplotlib, pandas, Jupyter Notebook, numpy, Streamlit
 Tools:                   Visual Studio Code, neovim, WSL, Linux, Git, GitHub, lazygit, miniconda, Node.js, nvm, Prettier
 UI Design:               Figma, Adobe Photoshop
+
+Alternate Persona:       @lezzthanthree
 ```
